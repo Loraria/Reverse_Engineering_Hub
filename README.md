@@ -5,10 +5,10 @@ In other words, this is our attempt at mastering Reverse Engineering with all it
 
 ## Information Sources
 
-[Reverse Engineering Tutorial Video](https://www.youtube.com/playlist?list=PLs-lxQfNn-H1TvgNsNdbMoeD4ZYLig7xY) 
+[Reverse Engineering Tutorial Video](https://www.youtube.com/playlist?list=PLs-lxQfNn-H1TvgNsNdbMoeD4ZYLig7xY) <br> 
 [Reverse Engineering Wiki by @mytechnotalent](https://0xinfection.github.io/reversing/)
 
 ## Challenge Sources
 
-[root-me](https://www.root-me.org/en/Challenges/Cracking/)
+[root-me](https://www.root-me.org/en/Challenges/Cracking/) <br>
 [crackme](https://crackmes.one)
