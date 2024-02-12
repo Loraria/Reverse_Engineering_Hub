@@ -12,10 +12,7 @@ In other words, this is our attempt at mastering Reverse Engineering with all it
 
 ## Challenge Sources
 
-[challenge/tutorial](https://microcorruption.com/)  
-[root-me](https://www.root-me.org/en/Challenges/Cracking/)  
-[crackme](https://crackmes.one)  
-[solutions to some crackmes](https://github.com/gabimarti/crackmes-solutions)
+[See here](/Knowledgebase/Assembly/CTFs.md)
 
 ## Tools
 
@@ -29,9 +26,4 @@ In other words, this is our attempt at mastering Reverse Engineering with all it
 
 ## Tutorials
 
-[IDA Free](https://www.youtube.com/watch?v=tWSa1L5L394)
-[Ghidra + IDA](https://www.youtube.com/watch?v=Bv-7SszPuvI)  
-[Ghidra](https://www.youtube.com/playlist?list=PLNmsVeXQZj7oQc3MxjWB-rYHHo9vX905a)  
-[Ghidra *again*](https://www.youtube.com/watch?v=Pst-4NwY2is&pp=ygUcZ2hpZHJhIHR1dG9yaWFsIGxpdmVvdmVyZmxvdw%3D%3D)  
-[*another* Ghidra tutorial](https://www.youtube.com/watch?v=sk1wAGeM9Hw)  
-[x64dbg](https://www.youtube.com/playlist?list=PLPRkkVSNCrVVyXBRoZoIvWzKe6zes6RuF)  
+See [Reversing tutorials](/Knowledgebase/Reversing/Reversing%20tutorials.md)
