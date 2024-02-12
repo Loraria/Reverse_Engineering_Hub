@@ -12,17 +12,18 @@ In other words, this is our attempt at mastering Reverse Engineering with all it
 
 ## Challenge Sources
 
-[See here](/Knowledgebase/Assembly/CTFs.md)
+[See here](/Knowledgebase/Reversing/CTFs.md)
 
 ## Tools
 
-| Name   | Windows | Linux | MacOs | Debugger | Disassembler | Notes | Link                                |
-|:------:|:-------:|:-----:|:-----:|:--------:|:------------:|:-----:|-------------------------------------|
-| dnSpy  |   ✅   | ❌    | ❌   |    ✅    |      ✅      |Only for .NET applications| https://github.com/dnSpyEx/dnSpy |
-| x64dbg |   ✅   | ✅    | ✅   |    ✅    |      ✅      |                          | https://github.com/x64dbg/x64dbg |
-| IDA Free |   ✅   | ✅    | ✅   |    ✅    |      ✅      |                          | https://hex-rays.com/ida-free/ |
-| Ghidra |   ✅   | ✅    | ✅   |    ✅    |      ✅      |                          | https://ghidra-sre.org/ |
-| cutter |   ✅   | ✅    | ✅   |    ✅    |      ✅      |                          | https://cutter.re/ |
+| Name      | Windows | Linux | MacOs | Debugger | Disassembler | Hex Editor    | Notes                    | Link                             |
+|:---------:|:-------:|:-----:|:-----:|:--------:|:------------:|:-----:|:-----:|-------------------------------------------------------------|
+| dnSpy     |   ✅   | ❌    | ❌   |    ✅    |      ✅      |      ?      |Only for .NET applications| https://github.com/dnSpyEx/dnSpy |
+| x64dbg    |   ✅   | ✅    | ✅   |    ✅    |      ✅      |      ✅      |                          | https://github.com/x64dbg/x64dbg |
+| IDA Free  |   ✅   | ✅    | ✅   |    ✅    |      ✅      |      ?      |                          | https://hex-rays.com/ida-free/   |
+| Ghidra    |   ✅   | ✅    | ✅   |    ✅    |      ✅      |      ?      |                          | https://ghidra-sre.org/          |
+| cutter    |   ✅   | ✅    | ✅   |    ✅    |      ✅      |      ?      |                          | https://cutter.re/               |
+|HxD        |   ✅   | ❌    | ❌   |    ❌    |      ❌      |      ✅      | Hex Editor               | https://mh-nexus.de/en/hxd/      |
 
 ## Tutorials
 

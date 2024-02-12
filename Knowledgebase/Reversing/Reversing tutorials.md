@@ -1,11 +1,3 @@
-## **Anti-Debugging**
-- [Bypassing BlackMatter Anti-Debug With x64dbg](https://www.youtube.com/watch?v=HlEk7P_VZfg)
-- [Reverse Engineering Crackme: Anti-debug and basic encryption](https://www.youtube.com/watch?v=8XgnCT3U-k8)
-
-## **VMP Unpacking**
-- [How to Unpack VMProtect Tutorial - no virtualization](https://www.youtube.com/watch?v=aoa89Khfgr0)
-- [Unpacking VMP - No Virtualization](https://www.youtube.com/watch?v=R5astw-GxzY)
-
 ## **General tutorial pages**
 - https://0xinfection.github.io/reversing/
 - [Reverse Engineering Tutorials](https://www.youtube.com/playlist?list=PLs-lxQfNn-H1TvgNsNdbMoeD4ZYLig7xY)
@@ -15,9 +7,18 @@
 
 ## General tutorials
 - [Beginner Reverse Engineering | Part 2: Compiling and Decompiling (Ghidra + IDA)](https://www.youtube.com/watch?v=Bv-7SszPuvI)
+- [Pwn Zero To Hero](https://www.youtube.com/playlist?list=PLeSXUd883dhjmKkVXSRgI1nJEZUDzgLf_)
 
 ## Finding the main entry
 - [Beginner Reverse Engineering  | Part 1: How To Find The Main Function](https://www.youtube.com/watch?v=tWSa1L5L394)
+
+## **Anti-Debugging**
+- [Bypassing BlackMatter Anti-Debug With x64dbg](https://www.youtube.com/watch?v=HlEk7P_VZfg)
+- [Reverse Engineering Crackme: Anti-debug and basic encryption](https://www.youtube.com/watch?v=8XgnCT3U-k8)
+
+## **VMP Unpacking**
+- [How to Unpack VMProtect Tutorial - no virtualization](https://www.youtube.com/watch?v=aoa89Khfgr0)
+- [Unpacking VMP - No Virtualization](https://www.youtube.com/watch?v=R5astw-GxzY)
 
 ## **x64dbg**
 - [Debugging and cracking with x64dbg](https://www.youtube.com/playlist?list=PLPRkkVSNCrVVyXBRoZoIvWzKe6zes6RuF)

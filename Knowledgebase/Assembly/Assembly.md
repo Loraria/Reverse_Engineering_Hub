@@ -8,10 +8,10 @@ rax, rbx,, rcx, rdx = 64 bit register
 Sr = status register (z.B zero flag)
 
 ## Syscalls
-![Beschreibung des Bildes](syscalls.png)  
+![Beschreibung des Bildes](/Knowledgebase/Assembly/images/syscalls.png)  
 
 Beispielcode:  
-![Beschreibung des Bildes](assembly_code.png)  
+![Beschreibung des Bildes](/Knowledgebase/Assembly/images/assembly_code.png)  
 
 Erklärung:
 ```
