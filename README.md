@@ -25,6 +25,8 @@ In other words, this is our attempt at mastering Reverse Engineering with all it
 | cutter    |   ✅   | ✅    | ✅   |    ✅    |      ✅      |      ?      |                          | https://cutter.re/               |
 |HxD        |   ✅   | ❌    | ❌   |    ❌    |      ❌      |      ✅      | Hex Editor               | https://mh-nexus.de/en/hxd/      |
 
+#TODO: add BinaryNinja
+
 ## Tutorials
 
 See [Reversing tutorials](/Knowledgebase/Reversing/Reversing%20tutorials.md)
