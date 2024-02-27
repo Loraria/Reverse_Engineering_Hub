@@ -46,3 +46,6 @@ The sete instruction (and its equivalent, setz) sets its argument to 1 if the ze
  
 
 Aus <https://stackoverflow.com/questions/53011701/what-does-the-instruction-sete-do-in-assembly>  
+
+Compiler Explorer: https://godbolt.org/  
+Decompiler: https://dogbolt.org/

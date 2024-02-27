@@ -11,7 +11,11 @@
 - [solutions to some crackmes](https://github.com/gabimarti/crackmes-solutions)
 
 ## Root-me
-- https://www.root-me.org/en/Challenges/Cracking/  
+- https://www.root-me.org/en/Challenges/Cracking/
+
+## TUMCTF 2016 Zwiebel
+- https://www.youtube.com/watch?v=LOrSbtNXBtg
+- https://www.youtube.com/watch?v=y69uIxU0eI8
 
 ## Cryptopals
 - https://cryptopals.com/
