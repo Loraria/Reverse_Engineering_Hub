@@ -1,4 +1,18 @@
 ### **CTFs**
+
+## Write Ups:
+- https://ctftime.org/
+
+## Cyber Security Challenge Germany
+- https://cscg.de/
+- https://play.cscg.live/
+
+## Hack-the-Box
+- https://www.hackthebox.com/
+
+## Try Hack Me
+- https://tryhackme.com/
+
 ## Microcorruption
 - https://microcorruption.com  
 
