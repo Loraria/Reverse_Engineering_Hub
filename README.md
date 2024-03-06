@@ -25,7 +25,10 @@ In other words, this is our attempt at mastering Reverse Engineering with all it
 | cutter    |   ✅   | ✅    | ✅   |    ✅    |      ✅      |      ?      |                          | https://cutter.re/               |
 |HxD        |   ✅   | ❌    | ❌   |    ❌    |      ❌      |      ✅      | Hex Editor               | https://mh-nexus.de/en/hxd/      |
 
-#TODO: add BinaryNinja
+## Other interesting tools/frameworks: 
+ - BinaryNinja
+ - https://github.com/Gallopsled/pwntools
+ - https://github.com/angr/angr
 
 ## Tutorials
 
