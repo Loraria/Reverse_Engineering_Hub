@@ -3,3 +3,6 @@
 
 Strings anzeigen: Shift + D  
 Einzelschritt: F8 
+
+## Ghidra
+Zu main springen: g + "main" eingeben + Enter

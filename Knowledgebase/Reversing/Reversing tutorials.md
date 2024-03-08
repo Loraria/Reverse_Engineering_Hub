@@ -9,6 +9,10 @@
 - [Beginner Reverse Engineering | Part 2: Compiling and Decompiling (Ghidra + IDA)](https://www.youtube.com/watch?v=Bv-7SszPuvI)
 - [Pwn Zero To Hero](https://www.youtube.com/playlist?list=PLeSXUd883dhjmKkVXSRgI1nJEZUDzgLf_)
 
+## Binary Explotation
+- https://www.youtube.com/playlist?list=PLHUKi1UlEgOIc07Rfk2Jgb5fZbxDPec94
+- https://www.youtube.com/playlist?list=PLhixgUqwRTjxglIswKp9mpkfPNfHkzyeN
+
 ## Finding the main entry
 - [Beginner Reverse Engineering  | Part 1: How To Find The Main Function](https://www.youtube.com/watch?v=tWSa1L5L394)
 

@@ -52,3 +52,6 @@ Aus <https://stackoverflow.com/questions/53011701/what-does-the-instruction-sete
     The CDQE instruction sign-extends a DWORD (32-bit value) in the EAX register to a QWORD (64-bit value) in the RAX register.  
     https://stackoverflow.com/questions/54618685/what-is-the-meaning-use-of-the-movzx-cdqe-instructions-in-this-code-output-by-a  
     https://www.felixcloutier.com/x86/cbw:cwde:cdqe  
+
+Compiler Explorer: https://godbolt.org/  
+Decompiler: https://dogbolt.org/
