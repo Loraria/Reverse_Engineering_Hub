@@ -39,10 +39,16 @@ asciz --> ASCII String null terminated
 - test al,al = prüfen, ob das zero bit gesetzt ist --> true or false
 
 
-- sete =  
+- sete:
 
-The sete instruction (and its equivalent, setz) sets its argument to 1 if the zero flag is set or to 0 otherwise. The zero flag is set if the last comparison or arithmetic instruction yielded equality or a result of zero. Thus in your case, sete sets al to 0 or 1 according to the result of the preceeding cmp instruction. 
+    The sete instruction (and its equivalent, setz) sets its argument to 1 if the zero flag is set or to 0 otherwise. The zero flag is set if the last comparison or arithmetic instruction yielded equality or a result of zero. Thus in your case, sete sets al to 0 or 1 according to the result of the preceeding cmp instruction. 
 
  
 
 Aus <https://stackoverflow.com/questions/53011701/what-does-the-instruction-sete-do-in-assembly>  
+
+- CDQE: 
+
+    The CDQE instruction sign-extends a DWORD (32-bit value) in the EAX register to a QWORD (64-bit value) in the RAX register.  
+    https://stackoverflow.com/questions/54618685/what-is-the-meaning-use-of-the-movzx-cdqe-instructions-in-this-code-output-by-a  
+    https://www.felixcloutier.com/x86/cbw:cwde:cdqe  
