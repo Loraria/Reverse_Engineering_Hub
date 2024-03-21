@@ -38,10 +38,43 @@ Then we can select it in the HexEditor to se the decoded text value.
 ![Beschreibung des Bildes](/Knowledgebase/CPU/images/hex_editor_02.png)
 
 
-### Big- and Little Endian
+### **MSP430**
+- https://phas.ubc.ca/~michal/phys319/MSP430Reference-RyansEdit.pdf 
+
+
+## Endianness
+
+Endianness is the order in which bytes within a word of digital data are transmitted over a data communication medium or addressed (by rising addresses) in computer memory.
+
 ![Beschreibung des Bildes](/Knowledgebase/CPU/images/th-4221105878.jpg)  
 Example: https://youtu.be/L3BwXbRDQM4?t=87
 
 
-### **MSP430**
-- https://phas.ubc.ca/~michal/phys319/MSP430Reference-RyansEdit.pdf 
+### Big Endian
+
+A big-endian system stores the most significant byte of a word at the smallest memory address and the least significant byte at the largest.
+Big-endianness is the dominant ordering in networking protocols, such as in the Internet protocol suite, where it is referred to as network order, transmitting the most significant byte first.
+
+### Little Endian 
+
+A little-endian system, in contrast, stores the least-significant byte at the smallest address.
+little-endianness is the dominant ordering for processor architectures (x86, most ARM implementations, base RISC-V implementations) and their associated memory. File formats can use either ordering; some formats use a mixture of both or contain an indicator of which ordering is used throughout the file.
+
+### Middle Endian
+
+Numerous other orderings, generically called middle-endian or mixed-endian, are possible.
+
+The PDP-11 is in principle a 16-bit little-endian system. The instructions to convert between floating-point and integer values in the optional floating-point processor of the PDP-11/45, PDP-11/70, and in some later processors, stored 32-bit "double precision integer long" values with the 16-bit halves swapped from the expected little-endian order. The UNIX C compiler used the same format for 32-bit long integers. This ordering is known as PDP-endian.
+
+UNIX was one of the first systems to allow the same code to be compiled for platforms with different internal representations. One of the first programs converted was supposed to print out Unix, but on the Series/1 it printed nUxi instead.
+
+A way to interpret this endianness is that it stores a 32-bit integer as two little-endian 16-bit words, with a big-endian word ordering:
+
+**Storage of a 32-bit integer, 0x0A0B0C0D, on a PDP-11**
+
+| byte offset | 8-bit value | 16-bit little-endian value |
+|:-----------:|:-----------:|:--------------------------:|
+|      0      | 0B          |                            |
+|      1      | 0A          | OAOB                       |
+|      2      | 0D          |                            |
+|      3      | 0C          | OCOD                       |
