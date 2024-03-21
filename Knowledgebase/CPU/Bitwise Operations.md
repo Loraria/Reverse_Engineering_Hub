@@ -54,7 +54,7 @@ Here are some examples of bitwise operations:
 4. Bitwise NOT:
     - Binary number: ~1010
     - Result: 0101
-    - Explanation: 
+    - Explanation: https://youtu.be/WBim3afbYQw?t=354
 
 5. Left Shift:
     - Binary number: 1010 << 2
