@@ -30,6 +30,10 @@ In other words, this is our attempt at mastering Reverse Engineering with all it
  - https://github.com/Gallopsled/pwntools
  - https://github.com/angr/angr
 
+## Debugging plugin for gdb:
+- https://github.com/pwndbg/pwndbg
+- https://docs.pwntools.com/en/stable/install.html#python3
+
 ## Tutorials
 
 See [Reversing tutorials](/Knowledgebase/Reversing/Reversing%20tutorials.md)
