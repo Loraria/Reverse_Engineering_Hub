@@ -37,3 +37,7 @@
 #### Solutions:
 - https://www.youtube.com/watch?v=bb8H2BLysts
 - https://www.youtube.com/watch?v=Y3EPPF0JcOc
+
+## Binary Explotation
+- https://exploit.education/
+- https://pwn.college/
