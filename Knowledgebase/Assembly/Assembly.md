@@ -38,6 +38,26 @@ asciz --> ASCII String null terminated
 - jmp = zu Funktion springen 
 - test al,al = prüfen, ob das zero bit gesetzt ist --> true or false
 
+<br>
+
+- JA/JNBE (above) : jump if superior (unsigned)
+- JNC/JAE/JNB : jump if C=0 (if greater than or equal to unsigned)
+- JC/JB/JNAE (below) : jump if C=1 (lower in unsigned)
+- JE/JZ : jump if Z=1 (if equality after CMP or subtraction)
+- JNE/JNZ : jump if Z=0 (different)
+- JP/JPE : jump if P=1 (even parity)
+- JNP/JPO : jump if P=0 (odd=odd)
+- JO : jump if O=1 (capacity overflow in signed numbers)
+- JNO : jump if O=0
+- JS : jump if S=1 (negative signed number)
+- JNS : jump if S=0
+- JG/JNLE (greater) : jump if greater (signed numbers)
+- JGE/JNL : jump if greater than or equal (signed numbers)
+- JL/JNGE (less) : jump if lower (signed numbers)
+- JLE/JNG : jump if less than or equal (signed numbers)
+- JCXZ : jump if CX=0 (for example to test how a LOOPZ REPZ ended).
+
+<br>
 
 - sete:
 
